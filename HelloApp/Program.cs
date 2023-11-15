@@ -1,4 +1,4 @@
 ﻿// See https://aka.ms/new-console-template for more information
 static void Greetings(){
-    Console.WriteLine("hello white");
+    Console.WriteLine("hello everyone");
 }
